@@ -18,11 +18,10 @@ First, locate the needed values:
 * Time per beam
 * Flux of FRBs
     * If there were no FRBs recovered, enter -1
-* Center frequency
 
 Create a json file with the relevant data
 ```bash
-python auto-json.py -N <name> -Y <year> -n <nFRBs> -S <sensitivity> -R <radius> -b <beams> -t <time per beam> -f <flux>
+python auto-json.py -N <name> -Y <year> -n <nFRBs> -S <sensitivity> -R <radius> -b <beams> -t <time per beam> -f <flux> -
 ```
 
 ## Requirements
