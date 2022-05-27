@@ -17,7 +17,7 @@ First, locate the needed values:
 * Number of beams
 * Time per beam
 * Flux of FRBs
-    * If there ere no FRBs recovered, enter -1
+    * If there were no FRBs recovered, enter -1
 * Center frequency
 
 Create a json file with the relevant data
