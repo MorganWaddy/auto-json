@@ -21,7 +21,7 @@ First, locate the needed values:
 
 Create a json file with the relevant data
 ```bash
-python auto-json.py -N <name> -Y <year> -n <nFRBs> -S <sensitivity> -R <radius> -b <beams> -t <time per beam> -f <flux> -
+python bin/auto-json.py -N <name of primary author of the paper> -Y <year> -n <nFRBs> -S <sensitivity> -R <radius of the beam> -b <beams> -t <time per beam> -f <flux>
 ```
 
 ## Requirements
