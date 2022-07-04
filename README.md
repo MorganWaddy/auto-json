@@ -13,7 +13,7 @@ First, locate the needed values:
 * Number of FRBs recovered from the data
     * If none, or a nondetection, enter 0
 * Sensitivity of the observation (in Janskys)
-* Radius of telescope
+* Radius of telescope beam
 * Number of beams
 * Time per beam
 * Flux of FRBs
